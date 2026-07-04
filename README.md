@@ -12,7 +12,7 @@
 
 [![Página do projeto](https://img.shields.io/badge/P%C3%A1gina%20do%20projeto-abrir-5e5ce6?style=for-the-badge)](https://paulocodex.com/p/velvet)
 
-<img src="assets/velvet-app.png" alt="VELVET — câmera de origem, antes/depois e galeria de looks" width="880" />
+<img src="assets/velvet-pro.png" alt="VELVET — câmera de origem, antes/depois e galeria de looks" width="880" />
 
 </div>
 
