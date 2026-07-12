@@ -24,8 +24,8 @@ Uma esteira: **do app → pro Resolve**, com o processo de colorista já embutid
 
 ## ✨ O que faz
 
-- **Biblioteca de looks prontos** — 12 looks curados (Neutro, Institucional, Cinematic, Teal & Orange, Quente Premium, Frio Clean, High-Key, Golden Hour, Preto e Branco e mais), organizados entre *Base* e *Criativo*. Um clique parte de uma base já tratada, não da imagem crua.
-- **Câmera de origem em um toque** — normaliza o material LOG/HDR pro Rec.709 (gamma **e** gamut, como um CST de verdade): Rec.709, Sony S-Log2/S-Log3, Panasonic V-Log, DJI D-Log, ARRI LogC3/LogC4, Canon C-Log/C-Log2/C-Log3, Fuji F-Log/F-Log2, Apple Log, Nikon N-Log, RED Log3G10, GoPro, HLG, PQ HDR, ACES e DaVinci Intermediate. Mais de 20 perfis.
+- **Biblioteca de looks prontos** — 22 looks curados (Neutro, Institucional, Cinematic, Teal & Orange, Quente Premium, Frio Clean, High-Key, Golden Hour, Preto e Branco, Cold Thriller, Bleach Bypass, Cross Process, Retro 70s/80s, Pastel e mais), organizados entre *Base* e *Criativo*. Um clique parte de uma base já tratada, não da imagem crua.
+- **Câmera de origem em um toque** — normaliza o material LOG/HDR pro Rec.709 (gamma **e** gamut, como um CST de verdade): Rec.709, Sony S-Log2/S-Log3, Panasonic V-Log, DJI D-Log, ARRI LogC3/LogC4, Canon C-Log/C-Log2/C-Log3, Fuji F-Log/F-Log2, Apple Log, **Samsung Log** (raro — quase nenhuma ferramenta tem), Nikon N-Log, RED Log3G10, GoPro, HLG, PQ HDR, ACES e DaVinci Intermediate. 24 perfis.
 - **Integração direta com o DaVinci Resolve** — o app conversa com o Resolve e monta o grade nos nós por você. Você continua editando; a cor chega pronta.
 - **Do app pro timeline, sem retrabalho** — configurou uma vez, o look viaja pro projeto. Sem exportar `.cube` na mão, sem reconstruir o mesmo tratamento clipe a clipe.
 - **Modo Amador e Modo Pro no mesmo app** — simples por padrão (câmera → look → intensidade); e quando quiser, o Pro abre rodas de cor (Lift/Gamma/Gain/Offset), curvas, HSL por faixa e acabamento de filme (halação, grão, bloom, vinheta).
@@ -61,15 +61,15 @@ Rodas de cor, curvas e HSL por faixa, acabamento de filme (halação · grão ·
 
 ## 🚧 Status
 
-O VELVET está **em desenvolvimento** — ainda não está à venda. Este repositório é a **apresentação pública** do projeto; o código-fonte é fechado.
+**Beta — motor provado, lançamento em breve.** O núcleo de cor passa em **52/52 provas numéricas** contra referências publicadas (WB Bradford vs Lindbloom, PQ/ST.2084, LUT oficial de Samsung Log) e já foi **validado rodando no DaVinci Resolve Studio 21** (aplica o grade no nó e renderiza na GPU de verdade — não "compila", *funciona*). Compra única, 100% offline, em português. Este repositório é a **apresentação pública**; o código-fonte é fechado.
 
-Quer acompanhar o lançamento (e ser avisado quando abrir)?
+Quer ser avisado quando abrir?
 
 ➡️ **[paulocodex.com/p/velvet](https://paulocodex.com/p/velvet)**
 
 ## ⚙️ Feito pra rodar em
 
-- **DaVinci Resolve 18.6–20** (Free e Studio)
+- **DaVinci Resolve 18.6–21** (Free e Studio)
 - **Windows** e **macOS**
 - Interface **em português**, do amador ao profissional
 
