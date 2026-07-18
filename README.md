@@ -59,6 +59,45 @@ Resultado: sai de material cru pra um grade profissional em segundos — com pro
 
 Rodas de cor, curvas e HSL por faixa, acabamento de filme (halação · grão · bloom · vinheta) e escopos — a profundidade de uma sala de cor, sem sair do fluxo.
 
+## 🧩 A suíte VELVET — não é só cor
+
+VELVET virou uma **suíte de edição pro DaVinci Resolve**. Além do app de cor, três plugins nativos que instalam num pack só e aparecem **separados** no menu de Integrações — cada um com seu ícone, cada um uma função (nada de canivete suíço que faz tudo mal).
+
+<div align="center">
+<img src="assets/plugin-autocut.png" alt="VELVET AutoCut" width="270" />
+<img src="assets/plugin-legenda.png" alt="VELVET Legenda" width="270" />
+<img src="assets/plugin-transcricao.png" alt="VELVET Transcrição" width="270" />
+</div>
+
+- <img src="assets/icon-autocut.png" width="18" align="absmiddle" /> **VELVET AutoCut** — corta silêncio, gaguejo e take repetido em segundos, sem sair do DaVinci. Presets Pouco / Normal / Muito. A timeline original fica intacta.
+- <img src="assets/icon-transcricao.png" width="18" align="absmiddle" /> **VELVET Transcrição** — edite pelo **texto** como no Premiere, com transcrição por IA rodando **na sua GPU** (Whisper local): sem nuvem, sem limite de horas, sem custo por minuto. Excluir texto corta o vídeo (ripple), localizar/substituir, exportar SRT.
+- <img src="assets/icon-legenda.png" width="18" align="absmiddle" /> **VELVET Legenda** — legenda viral com **karaokê**, biblioteca de SFX e **34 letterings próprios**, nativa no Resolve. O que o CaptionFlow faz no Premiere, aqui com transcrição embutida.
+
+### Por que VELVET (e não os outros)
+
+Nenhum concorrente junta as quatro coisas: **DaVinci-nativo + em português + compra única + IA 100% local**. Os pagos de legenda BR (CaptionFlow, Legendas Master) só rodam no Premiere; os de DaVinci (AutoCut.com, FireCut) são **assinatura mensal**. VELVET é compra única e a IA roda no seu PC.
+
+| | Concorrentes | **VELVET** |
+|---|---|---|
+| Onde roda | Premiere (os BR) ou assinatura | **DaVinci nativo, compra única** |
+| Transcrição | nuvem, por minuto/limite de horas | **sua GPU (Whisper local), ilimitada** |
+| Idioma | inglês | **português** |
+| Preço | US$10-20/mês recorrente | **paga uma vez, é seu** |
+
+### Preços (lançamento)
+
+| Produto | Lançamento |
+|---|---|
+| VELVET AutoCut | R$67 |
+| VELVET Transcrição | R$97 |
+| VELVET Legenda | R$137 |
+| **VELVET Suíte** (os 3) | **R$197** — ~33% off |
+| VELVET Complete (+ Color) | R$297 |
+
+Compra única, 2 PCs por licença, atualizações inclusas. **Teste 3 dias grátis** em cada um.
+
+➡️ **[paulocodex.com/p/velvet](https://paulocodex.com/p/velvet)** — lançamento em breve, entre na lista.
+
 ## 🚧 Status
 
 **Beta — motor provado, lançamento em breve.** O núcleo de cor passa em **52/52 provas numéricas** contra referências publicadas (WB Bradford vs Lindbloom, PQ/ST.2084, LUT oficial de Samsung Log) e já foi **validado rodando no DaVinci Resolve Studio 21** (aplica o grade no nó e renderiza na GPU de verdade — não "compila", *funciona*). Compra única, 100% offline, em português. Este repositório é a **apresentação pública**; o código-fonte é fechado.
