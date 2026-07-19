@@ -6,7 +6,7 @@
 
 **Esteira de looks pro seu vídeo — do app direto pro DaVinci Resolve, sem retrabalho.**
 
-[![status](https://img.shields.io/badge/status-BETA-d9a63e?style=for-the-badge)](https://paulocodex.com/p/velvet)
+[![status](https://img.shields.io/badge/status-%C3%80%20VENDA-d9a63e?style=for-the-badge)](https://paulocodex.com/p/velvet)
 &nbsp;
 [![plataforma](https://img.shields.io/badge/Windows%20%7C%20macOS-1f1f1f?style=for-the-badge&logo=davinciresolve&logoColor=white)](https://paulocodex.com/p/velvet)
 
