@@ -86,17 +86,20 @@ Nenhum concorrente junta as quatro coisas: **DaVinci-nativo + em português + co
 
 ### Preços (lançamento)
 
-| Produto | Lançamento |
-|---|---|
-| VELVET AutoCut | R$67 |
-| VELVET Transcrição | R$97 |
-| VELVET Legenda | R$137 |
-| **VELVET Suíte** (os 3) | **R$197** — ~33% off |
-| VELVET Complete (+ Color) | R$297 |
+Cada ferramenta é **avulsa** (chave própria) ou junte num **combo** e economize:
 
-Compra única, 2 PCs por licença, atualizações inclusas. **Teste 3 dias grátis** em cada um.
+| Produto | Preço | Comprar |
+|---|---|---|
+| VELVET AutoCut | R$67 | [comprar](https://paulocodex.com/comprar?product=velvet-autocut) |
+| VELVET Transcrição | R$97 | [comprar](https://paulocodex.com/comprar?product=velvet-transcricao) |
+| VELVET Legenda | R$137 | [comprar](https://paulocodex.com/comprar?product=velvet-legenda) |
+| VELVET Color | R$147 | [comprar](https://paulocodex.com/comprar?product=velvet) |
+| **VELVET Suíte** (os 3 plugins) | **R$197** — economize R$104 | [comprar](https://paulocodex.com/comprar?product=velvet-suite) |
+| **VELVET Complete** (tudo + Color) | **R$297** — economize R$151 | [comprar](https://paulocodex.com/comprar?product=velvet-complete) |
 
-➡️ **Comprar / testar:** [paulocodex.com/p/velvet](https://paulocodex.com/p/velvet)
+Compra única, 2 PCs por licença, atualizações inclusas.
+
+➡️ **Todos os planos numa página:** [paulocodex.com/velvet](https://paulocodex.com/velvet)
 
 ## 📦 Baixar, instalar e usar
 
