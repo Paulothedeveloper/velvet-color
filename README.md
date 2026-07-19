@@ -96,7 +96,22 @@ Nenhum concorrente junta as quatro coisas: **DaVinci-nativo + em português + co
 
 Compra única, 2 PCs por licença, atualizações inclusas. **Teste 3 dias grátis** em cada um.
 
-➡️ **[paulocodex.com/p/velvet](https://paulocodex.com/p/velvet)** — lançamento em breve, entre na lista.
+➡️ **Comprar / testar:** [paulocodex.com/p/velvet](https://paulocodex.com/p/velvet)
+
+## 📦 Baixar, instalar e usar
+
+**Requisito:** DaVinci Resolve **Studio** (os plugins de Integração de Fluxo de Trabalho só existem no Studio) · Windows 10/11. O instalador **já traz tudo embutido** (IA de transcrição + ffmpeg) — você **não** instala Python nem nada.
+
+**Instalar (uma vez, ~2 min):** baixe o `VELVET-Plugins-Setup.zip` em **[Releases](../../releases)**, **feche o DaVinci**, extraia e rode o `INSTALAR.bat`. Reabra o Resolve → os 3 aparecem **separados** em **Área de trabalho › Integrações de Fluxo de Trabalho** (VELVET AutoCut · Legenda · Transcrição). *(O `.exe` do VELVET Color também está nos Releases, instala à parte.)*
+
+**Testar e ativar:** 3 dias grátis ao abrir. Para liberar, clique em **Ativar** na barra de baixo do plugin e cole sua chave (veio na compra + e-mail; 1 chave = 2 PCs; Suíte/Complete ativam os 3 com a mesma chave).
+
+**Usar cada um (individual):**
+- **AutoCut** — clique no clipe na timeline → escolha o corte (silêncio / muleta / take repetido) → **Cortar**. Sai uma timeline nova já cortada; a original fica intacta.
+- **Legenda** — importe um SRT (ou gere no Transcrição) → clique no clipe → escolha o estilo (34 letterings) → opcional SFX + karaokê → **Gerar legendas**. Aba **Cartão** = lower third (nome + função).
+- **Transcrição** — clique no clipe → **Transcrever** (IA roda na sua GPU; baixa o modelo 1× no 1º uso) → edite pelo **texto** (apagar corta o vídeo, buscar/substituir, remover pausas/muletas) → aplique a legenda ou exporte SRT/VTT/TXT.
+
+Guia completo dentro do `.zip` (`LEIA-ME.txt`). Dúvidas: **contato@paulocodex.com**.
 
 ## 🚧 Status
 
