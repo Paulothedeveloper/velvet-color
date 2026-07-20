@@ -101,6 +101,15 @@ Compra única, 2 PCs por licença, atualizações inclusas.
 
 **Todos os planos numa página:** [paulocodex.com/velvet](https://paulocodex.com/velvet)
 
+## Como funciona: você grada num NÓ, ao vivo
+
+Nada de "importar arquivo". O VELVET trabalha no **seu clipe**, dentro do DaVinci, na página **Color**, igual aos grandes (RapidGrade, Colourlab). Duas portas, as duas caem num **nó**:
+
+- **Modo direto (manual/pro):** na página Color, adicione o VELVET num nó (ResolveFX Color → DaVinci CTL → `VELVET_Core`). Aparecem **22 looks + sliders** (exposição, temperatura, contraste, film look, proteção de pele) gradando **ao vivo na sua imagem**.
+- **Modo IA (1 clique):** abra o **app VELVET** e ele lê o frame do seu clipe, decide o look **citando a referência** e **monta o nó pra você**.
+
+Depois é só ajustar os sliders no próprio nó e finalizar no Resolve.
+
 ## Baixar, instalar e usar
 
 **Requisito:** DaVinci Resolve **Studio** (os plugins de Integração de Fluxo de Trabalho só existem no Studio) · Windows 10/11. O instalador **já traz tudo embutido** (IA de transcrição + ffmpeg): você **não** instala Python nem nada.
